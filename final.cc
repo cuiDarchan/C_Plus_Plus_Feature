@@ -1,3 +1,7 @@
+/**
+ * Reference: https://subingwen.cn/cpp/final/#1-2-%E4%BF%AE%E9%A5%B0%E7%B1%BB
+ */
+
 #include <iostream>
 
 // 1. final修饰函数
